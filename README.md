@@ -1,0 +1,2 @@
+# LocalCentricAI
+LocalCentricAI Project Overview
